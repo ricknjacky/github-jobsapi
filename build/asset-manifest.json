@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8416d62e.chunk.css",
+    "main.js": "/static/js/main.b4a6a734.chunk.js",
+    "main.js.map": "/static/js/main.b4a6a734.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.28323018.js",
+    "runtime-main.js.map": "/static/js/runtime-main.28323018.js.map",
+    "static/js/2.b888f1ba.chunk.js": "/static/js/2.b888f1ba.chunk.js",
+    "static/js/2.b888f1ba.chunk.js.map": "/static/js/2.b888f1ba.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1bb0e03d65678ea86b5bce2e9f4db246.js": "/precache-manifest.1bb0e03d65678ea86b5bce2e9f4db246.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8416d62e.chunk.css.map": "/static/css/main.8416d62e.chunk.css.map",
+    "static/js/2.b888f1ba.chunk.js.LICENSE.txt": "/static/js/2.b888f1ba.chunk.js.LICENSE.txt",
+    "static/media/Magnify-1.2s-200px--dark.svg": "/static/media/Magnify-1.2s-200px--dark.69ea0178.svg",
+    "static/media/Magnify-1.2s-200px.svg": "/static/media/Magnify-1.2s-200px.e9ae9839.svg",
+    "static/media/bg-pattern-detail-footer.svg": "/static/media/bg-pattern-detail-footer.86300130.svg",
+    "static/media/App.scss": "/static/media/icon-search.b89fe227.svg",
+    "static/media/bg-pattern-header.svg": "/static/media/bg-pattern-header.549c5470.svg",
+    "static/media/github-black.svg": "/static/media/github-black.7be5b44b.svg",
+    "static/media/github-purple.svg": "/static/media/github-purple.baece89f.svg",
+    "static/media/github-red.svg": "/static/media/github-red.100102f1.svg",
+    "static/media/icon-check.svg": "/static/media/icon-check.6354efb6.svg",
+    "static/media/icon-filter.svg": "/static/media/icon-filter.3c89a70b.svg",
+    "static/media/icon-location.svg": "/static/media/icon-location.7c42293b.svg",
+    "static/media/icon-moon.svg": "/static/media/icon-moon.a0697094.svg",
+    "static/media/icon-sun.svg": "/static/media/icon-sun.20ea2dcb.svg",
+    "static/media/logo.svg": "/static/media/logo.66810c3d.svg",
+    "static/media/up-arrow.svg": "/static/media/up-arrow.5b679796.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28323018.js",
+    "static/js/2.b888f1ba.chunk.js",
+    "static/css/main.8416d62e.chunk.css",
+    "static/js/main.b4a6a734.chunk.js"
+  ]
+}
